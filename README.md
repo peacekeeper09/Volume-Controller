@@ -11,3 +11,9 @@ You can read more about pygame from [here.](https://pypi.org/project/pygame/)
 ```
 pip install pygame
 ```
+
+## Compytes
+You can read more about Comptypes from [here.](https://pypi.org/project/comtypes/)
+
+##pycaw
+You can read more about Pycaw from [here.](https://pypi.org/project/pycaw/)
