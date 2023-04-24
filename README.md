@@ -14,6 +14,13 @@ pip install pygame
 
 ## Compytes
 You can read more about Comptypes from [here.](https://pypi.org/project/comtypes/)
+```
+pip install comtypes
 
-##pycaw
+```
+
+## pycaw
 You can read more about Pycaw from [here.](https://pypi.org/project/pycaw/)
+```
+pip install pycaw
+```
