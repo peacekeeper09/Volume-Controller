@@ -24,3 +24,7 @@ You can read more about Pycaw from [here.](https://pypi.org/project/pycaw/)
 ```
 pip install pycaw
 ```
+
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/80287027/233928770-b0e0538f-285e-4238-a1ea-1f57d2cb6613.png)
