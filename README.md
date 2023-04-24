@@ -27,4 +27,4 @@ pip install pycaw
 
 
 # Screenshot
-![image](https://user-images.githubusercontent.com/80287027/233928770-b0e0538f-285e-4238-a1ea-1f57d2cb6613.png)
+![image](https://user-images.githubusercontent.com/80287027/234117881-ca1e5810-505f-4b53-a3d6-db00033d37ef.png)
