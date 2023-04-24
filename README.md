@@ -28,3 +28,7 @@ pip install pycaw
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/80287027/234117881-ca1e5810-505f-4b53-a3d6-db00033d37ef.png)
+
+# Purpose of making this?
+
+So since updating to Windows 11, I've been experiencing issues with the small control panel at the bottom right of my screen. It's often unresponsive, so I thought, why not control the volume using Python? Lol.
