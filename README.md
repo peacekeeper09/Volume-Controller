@@ -7,4 +7,7 @@ A simple volume controller made using pygame, tkinter, pycaw, comtypes, ctypes.
 
 To run the code, you need to install the following module.
 ## Pygame
-[Pygame](https://pypi.org/project/pygame/)
+You can read more about pygame from [here.](https://pypi.org/project/pygame/)
+```
+pip install pygame
+```
